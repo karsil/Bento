@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Jan',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -59,33 +59,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
-    },
-    {
-      id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
     },
     {
-      id: '6',
-      name: 'Odysee',
+      id: '3',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -209,20 +191,8 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Front',
-          link: 'https://www.reddit.com/r/Frontend/',
-        },
-        {
-          name: 'Rust',
-          link: 'https://www.reddit.com/r/rust/',
-        },
-        {
-          name: 'Go',
-          link: 'https://www.reddit.com/r/golang/',
-        },
-        {
           name: 'Repos',
-          link: 'https://github.com/migueravila',
+          link: 'https://github.com/karsil',
         },
       ],
     },
