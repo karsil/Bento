@@ -168,6 +168,14 @@ const CONFIG = {
           name: 'Komoot',
           link: 'https://www.komoot.de/',
         },
+        {
+          name: 'Komoot',
+          link: 'https://www.komoot.de/',
+        },
+        {
+          name: 'Komoot',
+          link: 'https://www.komoot.de/',
+        },
       ],
     },
   ],
