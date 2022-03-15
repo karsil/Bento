@@ -59,15 +59,33 @@ const CONFIG = {
     },
     {
       id: '2',
+      name: 'Gitlab',
+      icon: 'gitlab',
+      link: 'https://gitlab.com/',
+    },
+    {
+      id: '3',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
     },
     {
-      id: '3',
+      id: '4',
       name: 'YouTube',
       icon: 'youtube',
       link: 'https://youtube.com/',
+    },
+    {
+      id: '5',
+      name: 'Spotify',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
+    },
+    {
+      id: '6',
+      name: 'MyNoise',
+      icon: 'sprout',
+      link: 'https://mynoise.net',
     },
   ],
 
@@ -94,7 +112,7 @@ const CONFIG = {
       id: '4',
       name: 'Amazon',
       icon: 'shopping-bag',
-      link: 'https://amazon.com/',
+      link: 'https://amazon.de/',
     },
     {
       id: '5',
@@ -129,12 +147,12 @@ const CONFIG = {
           link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'LoFi Study Beats',
+          link: 'https://www.youtube.com/watch?v=_tV5LEBDs7w',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'LoFi Radio',
+          link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
         },
       ],
     },
@@ -147,16 +165,8 @@ const CONFIG = {
           link: 'https://www.linkedin.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
-        },
-        {
-          name: 'Trello',
-          link: 'https://www.trello.com',
-        },
-        {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Komoot',
+          link: 'https://www.komoot.de/',
         },
       ],
     },
