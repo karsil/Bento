@@ -169,12 +169,12 @@ const CONFIG = {
           link: 'https://www.komoot.de/',
         },
         {
-          name: 'Komoot',
-          link: 'https://www.komoot.de/',
+          name: 'Steam',
+          link: 'https://store.steampowered.com/',
         },
         {
-          name: 'Komoot',
-          link: 'https://www.komoot.de/',
+          name: 'Homebrew',
+          link: 'https://brew.sh/',
         },
       ],
     },
